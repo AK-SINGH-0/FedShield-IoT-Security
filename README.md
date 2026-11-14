@@ -2,7 +2,7 @@
 Code and experimental results for federated learning IDS in IoT
 
 
-# FedShield: Federated Learning-Based Intrusion Detection System For Secure IoT Networks
+# FedShield: Federated Learning-based Privacy Preserving Intrusion Detection in IoT Networks
 <img width="2143" height="123" alt="image" src="https://github.com/user-attachments/assets/ba7c62f6-cc8a-43ec-888b-7fc5583f14c5" />
 
 
